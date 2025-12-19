@@ -125,7 +125,8 @@
     transition: color var(--transition-base);
 }
 
-.header.scrolled .menu-toggle-text {
+.header.scrolled .menu-toggle-text,
+.header.menu-open .menu-toggle-text {
     color: var(--color-chocolate);
 }
 
@@ -143,7 +144,8 @@
     transition: all var(--transition-base);
 }
 
-.header.scrolled .menu-toggle-icon .bar {
+.header.scrolled .menu-toggle-icon .bar,
+.header.menu-open .menu-toggle-icon .bar {
     background-color: var(--color-chocolate);
 }
 

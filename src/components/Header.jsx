@@ -34,7 +34,7 @@ function Header() {
                 {/* Logo */}
                 <Link to="/" className="logo" onClick={closeMenu}>
                     <img
-                        src={isScrolled ? "/images/logo/Logo Dark.png" : "/images/logo/Logo White.png"}
+                        src={isScrolled || isMenuOpen ? "/images/logo/Logo Dark.png" : "/images/logo/Logo White.png"}
                         alt="Cuku Cafe"
                         className="logo-image"
                     />
