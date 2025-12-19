@@ -1,0 +1,302 @@
+/* ========================================
+   REVIEWS PAGE - STICKY NOTES DESIGN
+   ======================================== */
+
+/* Import Google Font for handwritten style */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
+
+/* Hero Section */
+.reviews-hero {
+    position: relative;
+    height: 60vh;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.reviews-hero-bg {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.reviews-hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: var(--color-overlay);
+}
+
+.reviews-hero-content {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    color: var(--color-cream);
+    padding: var(--space-xl);
+    animation: fadeInUp 0.8s ease forwards;
+}
+
+.reviews-hero-title {
+    font-family: var(--font-heading);
+    font-size: var(--text-5xl);
+    font-weight: 500;
+    margin-bottom: var(--space-md);
+    color: var(--color-cream);
+}
+
+.reviews-hero-subtitle {
+    font-size: var(--text-lg);
+    font-weight: 300;
+    opacity: 0.9;
+}
+
+/* Reviews Board Section */
+.reviews-board {
+    background-color: var(--color-cream-light);
+    position: relative;
+}
+
+.reviews-board::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+        radial-gradient(circle at 20% 50%, rgba(139, 90, 43, 0.03) 0%, transparent 50%),
+        radial-gradient(circle at 80% 20%, rgba(139, 90, 43, 0.03) 0%, transparent 50%);
+    pointer-events: none;
+}
+
+.reviews-intro {
+    max-width: 600px;
+    margin: 0 auto var(--space-3xl);
+}
+
+.reviews-intro-text {
+    font-size: var(--text-lg);
+    color: var(--color-chocolate-light);
+    font-style: italic;
+}
+
+/* Sticky Notes Grid */
+.sticky-notes-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-xl);
+    padding: var(--space-xl) 0;
+}
+
+/* Individual Sticky Note */
+.sticky-note {
+    position: relative;
+    padding: var(--space-xl) var(--space-lg) var(--space-lg);
+    min-height: 220px;
+    transform: rotate(var(--rotation, 0deg));
+    transition: transform var(--transition-base), box-shadow var(--transition-base);
+    animation: noteAppear 0.5s ease backwards;
+}
+
+.sticky-note:hover {
+    transform: rotate(0deg) scale(1.03);
+    box-shadow: 0 15px 30px rgba(60, 42, 33, 0.2);
+    z-index: 10;
+}
+
+/* Sticky Note Colors */
+.sticky-note-yellow {
+    background: linear-gradient(135deg, #FFF9C4 0%, #FFF59D 100%);
+    box-shadow:
+        0 8px 16px rgba(255, 245, 157, 0.4),
+        0 4px 8px rgba(60, 42, 33, 0.1);
+}
+
+.sticky-note-pink {
+    background: linear-gradient(135deg, #FFCDD2 0%, #F8BBD9 100%);
+    box-shadow:
+        0 8px 16px rgba(248, 187, 217, 0.4),
+        0 4px 8px rgba(60, 42, 33, 0.1);
+}
+
+.sticky-note-blue {
+    background: linear-gradient(135deg, #BBDEFB 0%, #B3E5FC 100%);
+    box-shadow:
+        0 8px 16px rgba(179, 229, 252, 0.4),
+        0 4px 8px rgba(60, 42, 33, 0.1);
+}
+
+.sticky-note-green {
+    background: linear-gradient(135deg, #C8E6C9 0%, #A5D6A7 100%);
+    box-shadow:
+        0 8px 16px rgba(165, 214, 167, 0.4),
+        0 4px 8px rgba(60, 42, 33, 0.1);
+}
+
+.sticky-note-orange {
+    background: linear-gradient(135deg, #FFE0B2 0%, #FFCC80 100%);
+    box-shadow:
+        0 8px 16px rgba(255, 204, 128, 0.4),
+        0 4px 8px rgba(60, 42, 33, 0.1);
+}
+
+/* Push Pin */
+.sticky-note-pin {
+    position: absolute;
+    top: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, #e74c3c 0%, #c0392b 100%);
+    box-shadow:
+        0 2px 4px rgba(0, 0, 0, 0.3),
+        inset 0 -2px 4px rgba(0, 0, 0, 0.2),
+        inset 0 2px 4px rgba(255, 255, 255, 0.3);
+}
+
+.sticky-note:nth-child(2) .sticky-note-pin {
+    background: radial-gradient(circle at 30% 30%, #3498db 0%, #2980b9 100%);
+}
+
+.sticky-note:nth-child(3) .sticky-note-pin {
+    background: radial-gradient(circle at 30% 30%, #f1c40f 0%, #f39c12 100%);
+}
+
+.sticky-note:nth-child(4) .sticky-note-pin {
+    background: radial-gradient(circle at 30% 30%, #2ecc71 0%, #27ae60 100%);
+}
+
+.sticky-note:nth-child(5) .sticky-note-pin {
+    background: radial-gradient(circle at 30% 30%, #9b59b6 0%, #8e44ad 100%);
+}
+
+.sticky-note:nth-child(6) .sticky-note-pin {
+    background: radial-gradient(circle at 30% 30%, #1abc9c 0%, #16a085 100%);
+}
+
+.sticky-note:nth-child(7) .sticky-note-pin {
+    background: radial-gradient(circle at 30% 30%, #e67e22 0%, #d35400 100%);
+}
+
+.sticky-note:nth-child(8) .sticky-note-pin {
+    background: radial-gradient(circle at 30% 30%, #e74c3c 0%, #c0392b 100%);
+}
+
+/* Sticky Note Content */
+.sticky-note-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.sticky-note-text {
+    font-family: 'Caveat', cursive;
+    font-size: 1.35rem;
+    font-weight: 500;
+    line-height: 1.4;
+    color: #3C2A21;
+    flex-grow: 1;
+    margin-bottom: var(--space-md);
+}
+
+.sticky-note-author {
+    font-family: 'Caveat', cursive;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #5C4033;
+    text-align: right;
+    border-top: 1px dashed rgba(60, 42, 33, 0.2);
+    padding-top: var(--space-sm);
+}
+
+/* Note Appearance Animation */
+@keyframes noteAppear {
+    from {
+        opacity: 0;
+        transform: rotate(var(--rotation, 0deg)) translateY(30px) scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: rotate(var(--rotation, 0deg)) translateY(0) scale(1);
+    }
+}
+
+/* CTA Section */
+.reviews-cta {
+    background-color: var(--color-ivory);
+}
+
+.reviews-cta-title {
+    font-family: var(--font-heading);
+    font-size: var(--text-3xl);
+    margin-bottom: var(--space-md);
+}
+
+.reviews-cta-text {
+    font-size: var(--text-lg);
+    color: var(--color-chocolate-light);
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .sticky-notes-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: var(--space-lg);
+    }
+}
+
+@media (max-width: 768px) {
+    .reviews-hero {
+        height: 50vh;
+        min-height: 350px;
+    }
+
+    .reviews-hero-title {
+        font-size: var(--text-4xl);
+    }
+
+    .sticky-notes-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--space-lg);
+    }
+
+    .sticky-note {
+        min-height: 200px;
+    }
+
+    .sticky-note-text {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .reviews-hero {
+        height: 45vh;
+        min-height: 300px;
+    }
+
+    .reviews-hero-title {
+        font-size: var(--text-3xl);
+    }
+
+    .sticky-notes-grid {
+        grid-template-columns: 1fr;
+        gap: var(--space-xl);
+        max-width: 340px;
+        margin: 0 auto;
+    }
+
+    .sticky-note {
+        min-height: 180px;
+        padding: var(--space-lg);
+    }
+
+    .sticky-note-text {
+        font-size: 1.15rem;
+    }
+}

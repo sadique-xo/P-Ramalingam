@@ -1,0 +1,1534 @@
+[
+  {
+    "category": "Cravings",
+    "itemCount": 22,
+    "items": [
+      {
+        "name": "Cinnamon Roll",
+        "price": "89",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1735389384199-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Pineapple Slice Cake -2 Pc",
+        "price": "59",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1734460710098-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Seasonal"
+        ]
+      },
+      {
+        "name": "Banana Caramel Slice Cake -2 Pc",
+        "price": "79",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1734460697391-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Seasonal"
+        ]
+      },
+      {
+        "name": "Almond Honey Sice Cake -2 Pc",
+        "price": "69",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1734460748976-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Seasonal"
+        ]
+      },
+      {
+        "name": "Banana Latte With Almond Honey Slice Cake",
+        "price": "149",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1734460773046-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Seasonal"
+        ]
+      },
+      {
+        "name": "Egg Croissant Sandwich",
+        "price": "179",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1739904298195-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Tiramisu❤",
+        "price": "149",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1737981855272-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Bestseller"
+        ]
+      },
+      {
+        "name": "Paint Your Own Cake",
+        "price": "165",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1739440249534-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Special"
+        ]
+      },
+      {
+        "name": "Paneer Croissant Sandwich",
+        "price": "149",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1739904708954-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Nutella Bamboloni",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1740219419725-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Barbeque Paneer Subwich",
+        "price": "129",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1740739629213-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Bestseller"
+        ]
+      },
+      {
+        "name": "No Bake Lotus Biscoff Cheese Cake",
+        "price": "129",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1741236251419-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Bestseller"
+        ]
+      },
+      {
+        "name": "No Bake Blueberry Cheesecake",
+        "price": "129",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1743159887294-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Pistachio Butter Croissant🥐",
+        "price": "175",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1743254909221-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Banana Slices Cake",
+        "price": "300",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Hard Shell Tacos 🌮",
+        "price": "169",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1748353501440-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Cheese Vada Pao",
+        "price": "89",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1748357270609-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Spinach Tortilla Wrap",
+        "price": "149",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1751813108777-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Chicken Hot Dog",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1752499932612-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Brownie Tiramisu ❤",
+        "price": "169",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1754477420569-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Bestseller"
+        ]
+      },
+      {
+        "name": "Magnum Croissant",
+        "price": "229",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757235796513-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Blueberry Nutella Pancake",
+        "price": "149",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757238890275-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Hot Brew",
+    "itemCount": 19,
+    "items": [
+      {
+        "name": "Hot Caffe Latte With Banana Caramel Slice Cake",
+        "price": "119",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1733572979492-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Special"
+        ]
+      },
+      {
+        "name": "Hot Cappuccino",
+        "price": "75",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1717517592858-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Espresso",
+        "price": "80",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727290539913-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Caramel Latte",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1733912849520-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Hazelnut Latte",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1733912733673-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Americano",
+        "price": "85",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727290575774-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Cafe Latte",
+        "price": "90",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727290627895-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Black Coffee",
+        "price": "80",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727290855925-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Cortado",
+        "price": "95",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727291301229-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Chocolate Coffee",
+        "price": "95",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727290960283-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Green Tea",
+        "price": "40",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727291033382-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Black Tea",
+        "price": "70",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727291066490-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Assam Tea",
+        "price": "50",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727291103368-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Masala Lemon Tea",
+        "price": "30",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727291168159-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Tea",
+        "price": "30",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727291203053-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Hot Chocolate",
+        "price": "95",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727291236029-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Jaggery Coffee",
+        "price": "95",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1755157873535-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "French Vanilla Latte",
+        "price": "99",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Classic Irish Latte",
+        "price": "99",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Deal Of The Day",
+    "itemCount": 2,
+    "items": [
+      {
+        "name": "Veggie Burger + Reg Fries + Pepsi",
+        "price": "179",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1738847833736-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Offer"
+        ]
+      },
+      {
+        "name": "Veggie Burger + Reg Fries + Iced Latte",
+        "price": "179",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1738847881777-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Offer"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Classic Cold Brew",
+    "itemCount": 22,
+    "items": [
+      {
+        "name": "Pistachio Mocha Latte",
+        "price": "279",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1743444202096-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Tiramisu Mocha Latte",
+        "price": "269",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742818852416-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Bestseller"
+        ]
+      },
+      {
+        "name": "Biscoff Frappuccino",
+        "price": "249",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1743149133519-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Iced Matcha Latte",
+        "price": "129",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1741024066265-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Rose Sharbat",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742809810811-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Blueberry Boba Pops",
+        "price": "129",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1741024078836-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Mango Boba Pops",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742135018077-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Green Apple Boba Pops",
+        "price": "109",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Strawberry Boba Pops",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742135027946-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Mango Matcha",
+        "price": "119",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742208662626-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Oreo Mocha Latte",
+        "price": "169",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1746815024984-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Pink Panther Moctail",
+        "price": "119",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1747319255475-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Caramel Iced Latte",
+        "price": "139",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757086802155-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Hazelnut Iced Latte",
+        "price": "139",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Caramel Popcorn Iced Latte",
+        "price": "189",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1753705754404-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Kokum Sharbat",
+        "price": "119",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1753873522634-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Custard Apple Shake",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1755441224482-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Jaljeera Shikanji",
+        "price": "89",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1755441313378-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Coffee Mocha Shake",
+        "price": "119",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Chocolate Boba Pops",
+        "price": "139",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757086722389-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Passion Fruit Boba Pops",
+        "price": "149",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757085936639-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Thai Tea",
+        "price": "139",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757086014039-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Pizza",
+    "itemCount": 13,
+    "items": [
+      {
+        "name": "Magerita",
+        "price": "105",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1718961898334-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Onion Pizza",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1718961924646-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Onion & Capsicum",
+        "price": "129",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1718961956192-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Paneer & Onion",
+        "price": "139",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1718961983668-7955.jpg",
+        "isVeg": null,
+        "badges": []
+      },
+      {
+        "name": "Sweet Corn Delight",
+        "price": "149",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1718961997272-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Peri Peri Veg",
+        "price": "199",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Cheese Lover",
+        "price": "205",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Paneer Tikka Butter Masala",
+        "price": "205",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1718962020448-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Chicken Tikka Pizza",
+        "price": "179",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1731245841732-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Farmville Pizza",
+        "price": "199",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742838942432-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Fiery Chicken Pizza 🌶🌶 (Thin Crust)",
+        "price": "229",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1747318916202-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Basil Pesto Pizza (Thin Crust)",
+        "price": "219",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1750160269682-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Chicken Keema Pizza",
+        "price": "249",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1752664091906-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "New"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Savouries",
+    "itemCount": 5,
+    "items": [
+      {
+        "name": "Chilli Garlic Potato Pops( Air Fried)",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727291451722-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Air Fried Peri Peri Fries",
+        "price": "119",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727291621678-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Paneer Tortilla Wrap",
+        "price": "145",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1721972031170-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Veg Classic Burger",
+        "price": "99",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Chicken Nuggets Air Fried 6 Pc",
+        "price": "139",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1734461154932-7955.jpg",
+        "isVeg": null,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Small Bites",
+    "itemCount": 11,
+    "items": [
+      {
+        "name": "Bun Samosa",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1730807130172-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Bestseller"
+        ]
+      },
+      {
+        "name": "Corn Salt And Pepper",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1730638176463-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Nachos Corn Chat",
+        "price": "129",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727882390193-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Korean Bun",
+        "price": "120",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1730807328087-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Pizza Toast",
+        "price": "105",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1721381252069-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Butter Maska Bun",
+        "price": "70",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757235943873-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Cheesy Garlic Bread",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757235996393-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Paneer Parcel",
+        "price": "85",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Cheese Toast",
+        "price": "65",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757236044491-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Egg Cheese Toast",
+        "price": "89",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Nachos Chicken Chaat",
+        "price": "179",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1746703545226-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "Bestseller"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Wraps",
+    "itemCount": 3,
+    "items": [
+      {
+        "name": "Veggie Delight Wrap",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742137902127-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Crispy Chicken Wrap",
+        "price": "139",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742208724394-7955.jpg",
+        "isVeg": null,
+        "badges": []
+      },
+      {
+        "name": "Crispy Paneer Wrap",
+        "price": "129",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742208931661-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Korean Ramen",
+    "itemCount": 2,
+    "items": [
+      {
+        "name": "Korean Ramen- Spicy",
+        "price": "189",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1731848151808-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Bestseller"
+        ]
+      },
+      {
+        "name": "Carbonara Chicken Ramen",
+        "price": "279",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1732128747053-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "New"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Subwich",
+    "itemCount": 4,
+    "items": [
+      {
+        "name": "Paneer Tikka Subwich",
+        "price": "119",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1740818252115-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Aloo Patty Subwich",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1740818265197-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Veggie Delight Sabwich",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1740818274926-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Chicken Tikka Subwich",
+        "price": "149",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1740818285239-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "New"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Grilled Sandwich",
+    "itemCount": 9,
+    "items": [
+      {
+        "name": "Mini Cheese Grilled Veg Sandwich",
+        "price": "95",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1721742612086-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Cheese Grilled Veg Sandwich",
+        "price": "159",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1721742634939-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Grilled Paneer Cheese Sandwich",
+        "price": "169",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1721742652517-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Veg & Paneer Tikka Sandwich",
+        "price": "159",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1721742669651-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Creamy Mushroom Sandwich",
+        "price": "169",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1721742688271-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Paneer 65 Sandwich",
+        "price": "159",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1752658125260-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "Bestseller"
+        ]
+      },
+      {
+        "name": "Chicken Keema Sandwich",
+        "price": "169",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1752657795381-7955.jpg",
+        "isVeg": null,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Chocolate Sandwich",
+        "price": "95",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Chilly Cheese Toast Sandwich",
+        "price": "99",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Cold Brew",
+    "itemCount": 12,
+    "items": [
+      {
+        "name": "Cold Coffee",
+        "price": "109",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Cold Coffee With Icecream",
+        "price": "119",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Mint Mojito",
+        "price": "95",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Biscoff Smoothie",
+        "price": "160",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Virgin Pina Colada",
+        "price": "140",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Blue Lagoon",
+        "price": "99",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Ice Tea",
+        "price": "95",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727611697085-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Orange Mojito",
+        "price": "109",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Banana Oats Smoothie",
+        "price": "145",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1730810779355-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Passion Fruit Mocktail",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1719055300783-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Watermelon Mojito",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1719328301203-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Green Mint Mojito",
+        "price": "89",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1736837176381-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Maggie",
+    "itemCount": 2,
+    "items": [
+      {
+        "name": "Cheese Masala Maggie",
+        "price": "139",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1725980609093-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Cheese Corn Maggie",
+        "price": "149",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1725980617646-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Spaghetti",
+    "itemCount": 2,
+    "items": [
+      {
+        "name": "Rosy Red",
+        "price": "199",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1742137671513-7955.jpg",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      },
+      {
+        "name": "Creamy White",
+        "price": "209",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": [
+          "New"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Burger",
+    "itemCount": 4,
+    "items": [
+      {
+        "name": "Classic Veg Burger",
+        "price": "95",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Allu Tikki Burger",
+        "price": "85",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Crispy Paneer Burger",
+        "price": "129",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Crispy Chicken Burger",
+        "price": "129",
+        "imageUrl": "",
+        "isVeg": null,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Cheese Loaf",
+    "itemCount": 2,
+    "items": [
+      {
+        "name": "Veg Supreme Garlic Loaf",
+        "price": "119",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727276091417-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Sweet Corn Garlic Loaf",
+        "price": "109",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727276131830-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Pasta",
+    "itemCount": 2,
+    "items": [
+      {
+        "name": "Red Sauce Pasta",
+        "price": "219",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727882579474-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "White Sauce Pasta",
+        "price": "239",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727861928736-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Shakes",
+    "itemCount": 8,
+    "items": [
+      {
+        "name": "Oreo Shake",
+        "price": "130",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": "110",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Kitkat Shake",
+        "price": "160",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Bubblegum Shake",
+        "price": "110",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Banana Shake",
+        "price": "130",
+        "imageUrl": "",
+        "isVeg": null,
+        "badges": []
+      },
+      {
+        "name": "Chocolate Shake",
+        "price": "130",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Mango Mastani Shake",
+        "price": "150",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Kesar Badam Shake",
+        "price": "130",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Croissant",
+    "itemCount": 7,
+    "items": [
+      {
+        "name": "Butter Croissant",
+        "price": "95",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1757239201122-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Chocolate Croissant",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1719327183405-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Caramel Croissant",
+        "price": "105",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1719664222549-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Biscoff Croissant",
+        "price": "110",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1719673093776-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Nutella And Strawberry Croissant",
+        "price": "165",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1739864746169-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Croissant Aux Amandes",
+        "price": "165",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1719664255745-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Salted Caramel Croissant",
+        "price": "155",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Waffle",
+    "itemCount": 1,
+    "items": [
+      {
+        "name": "Chocolate Waffle",
+        "price": "129",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Dessert",
+    "itemCount": 5,
+    "items": [
+      {
+        "name": "Brownie With Icecream",
+        "price": "119",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Caramel Brownie",
+        "price": "129",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Hazelnut Brownie",
+        "price": "129",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1730807067323-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Chocolava",
+        "price": "95",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Walnut Brownie",
+        "price": "99",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "No Baked Cheese Cake",
+    "itemCount": 4,
+    "items": [
+      {
+        "name": "Blueberry",
+        "price": "129",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Lotus Biscoff",
+        "price": "129",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Nutella",
+        "price": "129",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Cheese Cake 1lb",
+        "price": "600",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Pastries",
+    "itemCount": 5,
+    "items": [
+      {
+        "name": "Velvet Dream",
+        "price": "95",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727709416902-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Red Velvet",
+        "price": "99",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1727709352488-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Dark Fantasy",
+        "price": "125",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Pineapple",
+        "price": "109",
+        "imageUrl": "",
+        "isVeg": null,
+        "badges": []
+      },
+      {
+        "name": "Choco Mud",
+        "price": "139",
+        "imageUrl": "",
+        "isVeg": null,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Filled Doughnuts",
+    "itemCount": 4,
+    "items": [
+      {
+        "name": "Chocolate",
+        "price": "89",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Hazelnut",
+        "price": "95",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Biscoff",
+        "price": "95",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Nutella",
+        "price": "95",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Water Bottle",
+    "itemCount": 2,
+    "items": [
+      {
+        "name": "Water Bottle 1ltr (",
+        "price": "30",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "Love Lock Key",
+        "price": "50",
+        "imageUrl": "https://www.instantmenu.co/outlet/img/upload/item/itemImage-1758279081573-7955.jpg",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Combo",
+    "itemCount": 4,
+    "items": [
+      {
+        "name": "1 Garden Special Pizza (8 Inches) + 1 Garlic Bread + 2 Cold Coffee+ 1 Chocolava",
+        "price": "399",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "1 Paneer Mushroom Pizza ( 8 Inches) + Potato Wedges + 2 Mint Mohito + Chocolate Brownie",
+        "price": "389",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "1 Makhani Do Pyaza Pizza (8 Inches) + Potato Pops+ 2 Orange Mohito + Choco Lava",
+        "price": "419",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      },
+      {
+        "name": "1 Pc Margretta Pizza (8 Inches) + Cheese Toast+ 2 Blue Lagoon+ Choco Lava",
+        "price": "399",
+        "imageUrl": "",
+        "isVeg": true,
+        "badges": []
+      }
+    ]
+  },
+  {
+    "category": "Healthy Eats",
+    "itemCount": 4,
+    "items": [
+      {
+        "name": "Pesto Mushroom Sandwich",
+        "price": "219",
+        "imageUrl": "",
+        "isVeg": null,
+        "badges": []
+      },
+      {
+        "name": "Sunny Side Up Sandwich",
+        "price": "179",
+        "imageUrl": "",
+        "isVeg": null,
+        "badges": []
+      },
+      {
+        "name": "Tandoori Chicken Sandwich",
+        "price": "299",
+        "imageUrl": "",
+        "isVeg": null,
+        "badges": []
+      },
+      {
+        "name": "Mushroom Broccoli Pizza Thin Crust",
+        "price": "259",
+        "imageUrl": "",
+        "isVeg": null,
+        "badges": []
+      }
+    ]
+  }
+]
