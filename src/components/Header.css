@@ -13,8 +13,8 @@
 
 .header.scrolled,
 .header.menu-open {
-    background-color: rgba(245, 230, 202, 0.95);
-    border-bottom: 1px solid rgba(60, 42, 33, 0.08);
+    background-color: rgba(232, 245, 233, 0.97);
+    border-bottom: 1px solid rgba(139, 26, 26, 0.1);
 }
 
 .header-container {
@@ -84,7 +84,7 @@
 }
 
 .header.scrolled .nav-link::after {
-    background-color: var(--color-chocolate);
+    background-color: var(--color-primary);
 }
 
 .nav-link:hover::after,
@@ -101,7 +101,7 @@
 }
 
 .header.scrolled .nav-link:hover {
-    color: var(--color-chocolate);
+    color: var(--color-primary);
 }
 
 /* Mobile Menu Toggle */
@@ -209,6 +209,7 @@
 
 .nav-mobile-link.active {
     font-style: italic;
+    color: var(--color-primary);
 }
 
 

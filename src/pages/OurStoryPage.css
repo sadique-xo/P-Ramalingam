@@ -104,6 +104,28 @@
     margin-bottom: var(--space-lg);
 }
 
+/* Brand Badges */
+.brand-badges {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-md);
+    margin-top: var(--space-xl);
+    flex-wrap: wrap;
+}
+
+.brand-badge {
+    display: inline-block;
+    padding: var(--space-sm) var(--space-lg);
+    background: linear-gradient(135deg, var(--color-primary), #a62626);
+    color: var(--color-cream);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border-radius: var(--radius-full);
+    box-shadow: 0 4px 15px rgba(139, 26, 26, 0.3);
+}
+
 /* Values */
 .story-values {
     background-color: var(--color-cream);
@@ -132,7 +154,7 @@
 .value-icon svg {
     width: 40px;
     height: 40px;
-    color: var(--color-accent);
+    color: var(--color-primary);
 }
 
 .value-title {
@@ -179,7 +201,7 @@
     font-weight: 500;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: var(--color-accent);
+    color: var(--color-primary);
     margin-bottom: var(--space-md);
 }
 
@@ -219,7 +241,7 @@
     font-weight: 500;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: var(--color-accent);
+    color: var(--color-primary);
     margin-bottom: var(--space-md);
 }
 
@@ -304,7 +326,7 @@
     top: 0;
     bottom: 0;
     width: 1px;
-    background-color: rgba(60, 42, 33, 0.2);
+    background-color: rgba(139, 26, 26, 0.3);
 }
 
 .timeline-item {
@@ -322,7 +344,7 @@
     top: 4px;
     width: 10px;
     height: 10px;
-    background-color: var(--color-chocolate);
+    background-color: var(--color-primary);
     border-radius: var(--radius-full);
 }
 

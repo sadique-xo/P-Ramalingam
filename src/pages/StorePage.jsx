@@ -6,64 +6,60 @@ const storeHeroImage = '/images/hero/store-hero.webp'
 const storeItems = [
     {
         id: 1,
-        name: 'Cuku House Blend',
-        category: 'Coffee Beans',
-        description: 'Our signature medium roast blend with notes of chocolate and caramel. Sourced from the finest estates.',
-        price: '₹650',
+        name: 'Coimbatore Ghee',
+        category: 'Dairy Products',
+        description: 'Our signature ghee from our own dairy in Coimbatore. Pure, sweet, and unlike any other ghee you\'ve tasted.',
+        price: 'Contact for Price',
     },
     {
         id: 2,
-        name: 'Single Origin Ethiopian',
-        category: 'Coffee Beans',
-        description: 'Light roast with floral and fruity notes. Perfect for pour-over enthusiasts.',
-        price: '₹850',
+        name: 'Coimbatore Butter',
+        category: 'Dairy Products',
+        description: 'Fresh farm butter sourced directly from our Coimbatore dairy. Rich and creamy.',
+        price: 'Contact for Price',
     },
     {
         id: 3,
-        name: 'Artisan Ceramic Mug',
-        category: 'Drinkware',
-        description: 'Handcrafted by local potters. Each piece is unique with our minimal logo.',
-        price: '₹450',
+        name: 'Filter Coffee Powder',
+        category: 'Coffee',
+        description: 'Authentic South Indian filter coffee blend. The aroma of tradition in every cup.',
+        price: 'Contact for Price',
     },
     {
         id: 4,
-        name: 'Pour Over Kit',
-        category: 'Brewing',
-        description: 'Complete home brewing kit with ceramic dripper, carafe, and filters.',
-        price: '₹2,200',
+        name: 'Idli / Dosa Mix',
+        category: 'Ready Mixes',
+        description: 'Traditional ready-to-make mixes for perfect idlis and crispy dosas at home.',
+        price: 'Contact for Price',
     },
     {
         id: 5,
-        name: 'Cuku Tote Bag',
-        category: 'Merchandise',
-        description: 'Organic cotton tote with our geometric logo. Perfect for market runs.',
-        price: '₹350',
+        name: 'Mixed Pickle',
+        category: 'Condiments',
+        description: 'Traditional South Indian pickle made with authentic spices and recipes.',
+        price: 'Contact for Price',
     },
     {
         id: 6,
-        name: 'Biscoff Cookie Jar',
-        category: 'Treats',
-        description: 'Take home our famous Lotus Biscoff cookies. Glass jar with 15 pieces.',
-        price: '₹480',
+        name: 'Premium Papad',
+        category: 'Snacks',
+        description: 'Crispy papads in various flavors. Perfect accompaniment to any meal.',
+        price: 'Contact for Price',
     },
 ]
 
 const partners = [
     {
-        name: 'Blue Tokai',
-        description: 'Premium Indian specialty coffee roasters',
+        name: 'Coimbatore Dairy',
+        description: 'Our own dairy ensuring premium quality ghee and butter',
     },
     {
-        name: 'Jharkhand Honey Co.',
-        description: 'Wild forest honey from local beekeepers',
+        name: 'South Indian Farms',
+        description: 'Direct sourcing from farmlands for freshest products',
     },
     {
-        name: 'Ranchi Pottery',
-        description: 'Handcrafted ceramics by local artisans',
-    },
-    {
-        name: 'Mountain Spice',
-        description: 'Organic spices from the Chota Nagpur plateau',
+        name: 'Traditional Spice Mills',
+        description: 'Authentic spices ground using time-honored methods',
     },
 ]
 
@@ -76,10 +72,10 @@ function StorePage() {
                     <div className="store-hero-overlay"></div>
                 </div>
                 <div className="store-hero-content">
-                    <span className="store-label">Take Home</span>
-                    <h1 className="store-title">The Store</h1>
+                    <span className="store-label">Our Specialties</span>
+                    <h1 className="store-title">Featured Products</h1>
                     <p className="store-subtitle">
-                        Curated goods to bring the Cuku experience home
+                        Premium South Indian products for your kitchen
                     </p>
                 </div>
             </section>
@@ -114,10 +110,10 @@ function StorePage() {
             <section className="store-partners section">
                 <div className="container">
                     <div className="partners-header text-center">
-                        <span className="partners-label">Our Partners</span>
-                        <h2 className="partners-title">Local Artisans We Love</h2>
+                        <span className="partners-label">Our Sources</span>
+                        <h2 className="partners-title">Quality You Can Trust</h2>
                         <p className="partners-subtitle">
-                            We proudly source from and collaborate with these incredible local makers
+                            Direct sourcing ensures freshness and authenticity in every product
                         </p>
                     </div>
 
@@ -140,10 +136,10 @@ function StorePage() {
                 <div className="container container-narrow text-center">
                     <h2 className="store-cta-title">Visit Us In Store</h2>
                     <p className="store-cta-text">
-                        Our full collection is available at both Cuku locations.
-                        Can't make it? Give us a call and we'll arrange delivery within Ranchi.
+                        Our full range of products is available at our Matunga store.
+                        Visit us or give us a call for bulk orders and inquiries.
                     </p>
-                    <a href="tel:+919934627281" className="btn btn-primary">
+                    <a href="tel:+919999999999" className="btn btn-primary">
                         Call to Order
                     </a>
                 </div>
@@ -153,3 +149,4 @@ function StorePage() {
 }
 
 export default StorePage
+

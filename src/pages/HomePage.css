@@ -151,6 +151,81 @@
     opacity: 0.9;
 }
 
+/* Press / As Seen On Section */
+.press-section {
+    background-color: var(--color-cream);
+    padding: var(--space-3xl) 0;
+}
+
+.press-header {
+    margin-bottom: var(--space-2xl);
+}
+
+.press-label {
+    display: inline-block;
+    font-size: var(--text-xs);
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--color-primary);
+    margin-bottom: var(--space-sm);
+}
+
+.press-title {
+    font-size: var(--text-3xl);
+    font-weight: 400;
+    color: var(--color-chocolate);
+}
+
+.press-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--space-3xl);
+    flex-wrap: wrap;
+}
+
+.press-logo-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: var(--space-lg);
+    border-radius: var(--radius-md);
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    transition: all var(--transition-base);
+    text-decoration: none;
+    min-width: 150px;
+}
+
+.press-logo-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.95);
+}
+
+.press-logo-item img {
+    height: 50px;
+    width: auto;
+    max-width: 120px;
+    object-fit: contain;
+    filter: grayscale(30%);
+    transition: filter var(--transition-base);
+}
+
+.press-logo-item:hover img {
+    filter: grayscale(0%);
+}
+
+.press-logo-name {
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--color-chocolate);
+    opacity: 0.8;
+}
+
 /* Feature Sections */
 .feature-grid {
     display: grid;
@@ -188,7 +263,7 @@
     font-weight: 500;
     letter-spacing: 0.15em;
     text-transform: uppercase;
-    color: var(--color-accent);
+    color: var(--color-primary);
     margin-bottom: var(--space-md);
 }
 
@@ -271,7 +346,7 @@
     font-weight: 500;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: var(--color-chocolate);
+    color: var(--color-primary);
     margin-bottom: var(--space-md);
 }
 

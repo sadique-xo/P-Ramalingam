@@ -4,10 +4,9 @@ import './Header.css'
 
 const navLinks = [
     { path: '/', label: 'Home' },
-    { path: '/menu', label: 'Eat & Drink' },
-    { path: '/store', label: 'Store' },
-    { path: '/our-story', label: 'Our Story' },
-    { path: '/locations', label: 'Locations' },
+    { path: '/menu', label: 'Products' },
+    { path: '/our-story', label: 'Our Legacy' },
+    { path: '/locations', label: 'Visit Us' },
     { path: '/reviews', label: 'Reviews' },
 ]
 
@@ -34,8 +33,8 @@ function Header() {
                 {/* Logo */}
                 <Link to="/" className="logo" onClick={closeMenu}>
                     <img
-                        src={isScrolled || isMenuOpen ? "/images/logo/Logo Dark.png" : "/images/logo/Logo White.png"}
-                        alt="Cuku Cafe"
+                        src={isScrolled || isMenuOpen ? "/images/logo/Logo PR.png" : "/images/logo/white logo main.png"}
+                        alt="P Ramalingam"
                         className="logo-image"
                     />
                 </Link>

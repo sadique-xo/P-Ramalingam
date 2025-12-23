@@ -1,5 +1,6 @@
 /* ========================================
-   CUKU CAFE - DESIGN SYSTEM
+   P RAMALINGAM - DESIGN SYSTEM
+   South Indian Inspired Color Palette
    ======================================== */
 
 /* CSS Reset */
@@ -13,16 +14,38 @@
 
 /* CSS Variables */
 :root {
-  /* Colors - Earthy Palette */
-  --color-cream: #F5E6CA;
-  --color-cream-light: #FAF3E8;
-  --color-ivory: #FFFEF9;
-  --color-chocolate: #3C2A21;
-  --color-chocolate-light: #5C4033;
-  --color-brown-warm: #6B4423;
-  --color-accent: #8B5A2B;
-  --color-overlay: rgba(60, 42, 33, 0.55);
-  --color-overlay-light: rgba(60, 42, 33, 0.25);
+  /* Colors - South Indian Palette */
+  /* Primary: Deep Maroon (Temple Red/Kumkum) */
+  --color-primary: #8B1A1A;
+  --color-primary-light: #A52A2A;
+  --color-primary-dark: #6B1010;
+
+  /* Secondary: Turmeric Gold */
+  --color-gold: #D4A017;
+  --color-gold-light: #E8B923;
+  --color-gold-muted: #C9956C;
+
+  /* Neutrals: Coffee & Light Green Backgrounds */
+  --color-cream: #E8F5E9;
+  --color-cream-light: #F1F8F2;
+  --color-ivory: #F5FAF6;
+  --color-coffee: #3E2723;
+  --color-coffee-light: #5D4037;
+  --color-brown-warm: #6D4C41;
+
+  /* Accent: Banana Leaf Green */
+  --color-green: #2E5A2E;
+  --color-green-light: #4A7C4A;
+
+  /* Legacy mappings for compatibility */
+  --color-chocolate: var(--color-coffee);
+  --color-chocolate-light: var(--color-coffee-light);
+  --color-accent: var(--color-gold);
+
+  /* Overlays - Deep Maroon (Temple Red) */
+  --color-overlay: rgba(110, 20, 20, 0.45);
+  --color-overlay-light: rgba(110, 20, 20, 0.25);
+  --color-overlay-maroon: rgba(139, 26, 26, 0.6);
 
   /* Typography */
   --font-heading: 'Playfair Display', Georgia, serif;
@@ -64,10 +87,10 @@
   --transition-slow: 500ms ease;
 
   /* Shadows */
-  --shadow-sm: 0 1px 2px rgba(60, 42, 33, 0.05);
-  --shadow-md: 0 4px 6px rgba(60, 42, 33, 0.07);
-  --shadow-lg: 0 10px 15px rgba(60, 42, 33, 0.1);
-  --shadow-xl: 0 20px 25px rgba(60, 42, 33, 0.1);
+  --shadow-sm: 0 1px 2px rgba(62, 39, 35, 0.05);
+  --shadow-md: 0 4px 6px rgba(62, 39, 35, 0.07);
+  --shadow-lg: 0 10px 15px rgba(62, 39, 35, 0.1);
+  --shadow-xl: 0 20px 25px rgba(62, 39, 35, 0.1);
 
   /* Border Radius */
   --radius-sm: 4px;
@@ -200,24 +223,24 @@ img {
 }
 
 .btn-primary {
-  background-color: var(--color-chocolate);
+  background-color: var(--color-primary);
   color: var(--color-cream);
 }
 
 .btn-primary:hover {
-  background-color: var(--color-chocolate-light);
+  background-color: var(--color-primary-light);
   color: var(--color-cream);
   transform: translateY(-2px);
 }
 
 .btn-outline {
   background-color: transparent;
-  color: var(--color-chocolate);
-  border: 1px solid var(--color-chocolate);
+  color: var(--color-primary);
+  border: 2px solid var(--color-primary);
 }
 
 .btn-outline:hover {
-  background-color: var(--color-chocolate);
+  background-color: var(--color-primary);
   color: var(--color-cream);
 }
 
@@ -284,6 +307,6 @@ img {
 
 /* Selection */
 ::selection {
-  background-color: var(--color-chocolate);
+  background-color: var(--color-primary);
   color: var(--color-cream);
 }

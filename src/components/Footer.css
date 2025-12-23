@@ -50,7 +50,7 @@
     font-size: var(--text-lg);
     font-weight: 500;
     margin-bottom: var(--space-lg);
-    color: var(--color-chocolate);
+    color: var(--color-primary);
 }
 
 /* Links */
@@ -70,7 +70,7 @@
 }
 
 .footer-link:hover {
-    color: var(--color-brown-warm);
+    color: var(--color-primary);
 }
 
 /* Address */
@@ -116,7 +116,7 @@
 }
 
 .social-link:hover {
-    background-color: var(--color-chocolate);
+    background-color: var(--color-primary);
     color: var(--color-cream);
 }
 
@@ -146,6 +146,65 @@
     opacity: 0.8;
 }
 
+/* Trust Badges */
+.footer-trust {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-md);
+    padding: var(--space-2xl) var(--space-xl);
+    margin-top: var(--space-2xl);
+    border-top: 1px solid rgba(139, 26, 26, 0.1);
+}
+
+.footer-trust-label {
+    font-size: var(--text-xs);
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--color-primary);
+    opacity: 0.8;
+}
+
+.footer-trust-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--space-2xl);
+    flex-wrap: wrap;
+}
+
+.footer-trust-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    opacity: 0.6;
+    transition: opacity var(--transition-base);
+    text-decoration: none;
+}
+
+.footer-trust-item:hover {
+    opacity: 1;
+}
+
+.footer-trust-item img {
+    height: 28px;
+    width: auto;
+    object-fit: contain;
+    filter: grayscale(50%);
+    transition: filter var(--transition-base);
+}
+
+.footer-trust-item:hover img {
+    filter: grayscale(0%);
+}
+
+.footer-trust-item span {
+    font-size: var(--text-xs);
+    font-weight: 600;
+    color: var(--color-primary);
+}
+
 /* Footer Bottom */
 .footer-bottom {
     display: flex;
@@ -153,7 +212,7 @@
     align-items: center;
     padding: var(--space-xl) var(--space-xl) 0;
     margin-top: var(--space-3xl);
-    border-top: 1px solid rgba(60, 42, 33, 0.1);
+    border-top: 1px solid rgba(139, 26, 26, 0.15);
     max-width: var(--max-width);
     margin-left: auto;
     margin-right: auto;

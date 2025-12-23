@@ -1,0 +1,119 @@
+[
+  {
+    "category": "DAIRY PRODUCTS",
+    "categoryLink": "https://www.appukart.com/categories/DAIRY%20PRODUCTS",
+    "imageUrl": "https://www.appukart.com/public/uploads/1744635308_dd1c84d6d258f8715bac.jpg",
+    "subcategories": [
+      "Cow Ghee",
+      "Butter",
+      "Paneer",
+      "Pure Ghee"
+    ],
+    "featured": true
+  },
+  {
+    "category": "RICE",
+    "categoryLink": "https://www.appukart.com/categories/RICE",
+    "imageUrl": "https://www.appukart.com/public/uploads/1747309321_cbabde8a30cf8777d777.jpg",
+    "subcategories": [
+      "Sona Masoori Rice",
+      "Ponni Raw Rice",
+      "Ponni Boiled Rice",
+      "Appu Idly Rice"
+    ],
+    "featured": true
+  },
+  {
+    "category": "SPICES",
+    "categoryLink": "https://www.appukart.com/categories/SPICES",
+    "imageUrl": "https://www.appukart.com/public/uploads/1747218354_b25df905535293fabff4.jpg",
+    "subcategories": [
+      "Spices"
+    ],
+    "featured": true
+  },
+  {
+    "category": "EDIBLE OIL",
+    "categoryLink": "https://www.appukart.com/categories/EDIBLE%20OIL",
+    "imageUrl": "https://www.appukart.com/public/uploads/1747307134_b60d4de80ddce258595d.jpg",
+    "subcategories": [
+      "Gingelly Oil",
+      "Coconut Oil",
+      "Groundnut Oil",
+      "Sesame Oil"
+    ],
+    "featured": true
+  },
+  {
+    "category": "PICKLES",
+    "categoryLink": "https://www.appukart.com/categories/PICKLES",
+    "imageUrl": "https://www.appukart.com/public/uploads/1747218729_da2372682f4559802228.jpg",
+    "subcategories": [
+      "Pickles"
+    ],
+    "featured": false
+  },
+  {
+    "category": "DRY FRUITS",
+    "categoryLink": "https://www.appukart.com/categories/DRY%20FRUITS",
+    "imageUrl": "https://www.appukart.com/public/uploads/1747218371_f62dc12b16acf961fc24.jpg",
+    "subcategories": [
+      "Dry Fruits"
+    ],
+    "featured": false
+  },
+  {
+    "category": "DHALL & GRAINS",
+    "categoryLink": "https://www.appukart.com/categories/DHALL%20&%20GRAINS",
+    "imageUrl": "https://www.appukart.com/public/uploads/1747218343_8c040967cef5aaf80395.jpg",
+    "subcategories": [
+      "Grains"
+    ],
+    "featured": false
+  },
+  {
+    "category": "INSTANT ITEMS",
+    "categoryLink": "https://www.appukart.com/categories/INSTANT%20ITEMS",
+    "imageUrl": "https://www.appukart.com/public/uploads/1747218328_b98cc0c0b0867ed0eb47.jpg",
+    "subcategories": [
+      "Instant Items"
+    ],
+    "featured": false
+  },
+  {
+    "category": "SNACKS & CHIPS",
+    "categoryLink": "https://www.appukart.com/categories/SNACKS-CHIPS",
+    "imageUrl": "https://www.appukart.com/public/uploads/1761629062_2dc32338659b6e56320f.jpg",
+    "subcategories": [
+      "Chips"
+    ],
+    "featured": false
+  },
+  {
+    "category": "FRYUMS",
+    "categoryLink": "https://www.appukart.com/categories/FRYUMS",
+    "imageUrl": "https://www.appukart.com/public/uploads/1744635443_42cc5bebfaea4fba759a.png",
+    "subcategories": [
+      "Fryums"
+    ],
+    "featured": false
+  },
+  {
+    "category": "APPALAM & PAPAD",
+    "categoryLink": "https://www.appukart.com/categories/APPALAM%20&%20PAPAD",
+    "imageUrl": "https://www.appukart.com/public/uploads/1761628992_87a4e7be25edfa6ee9fa.jpeg",
+    "subcategories": [
+      "Papad"
+    ],
+    "featured": false
+  },
+  {
+    "category": "MILLETS",
+    "categoryLink": "https://www.appukart.com/categories/MILLETS",
+    "imageUrl": "https://www.appukart.com/public/uploads/1747218745_206d5420782c9f1d7d56.jpg",
+    "subcategories": [
+      "Millets"
+    ],
+    "featured": false
+  }
+]

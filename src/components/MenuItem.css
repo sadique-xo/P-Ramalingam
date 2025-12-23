@@ -98,7 +98,7 @@
     font-family: var(--font-heading);
     font-size: var(--text-xl);
     font-weight: 600;
-    color: var(--color-accent);
+    color: var(--color-primary);
     flex-shrink: 0;
 }
 

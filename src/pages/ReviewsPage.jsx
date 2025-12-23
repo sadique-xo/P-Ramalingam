@@ -4,61 +4,61 @@ import './ReviewsPage.css'
 // Hero image
 const heroImage = '/images/hero/home-hero.webp'
 
-// Reviews data
+// Reviews data - Placeholder reviews focused on P Ramalingam products
 const reviews = [
     {
         id: 1,
-        name: 'Soni Kumari lal',
-        review: 'Cozy vibes and adorable decor make this cafe a must-visit! The food is delicious, and the service is top-notch. From fluffy pancakes to rich coffee, every bite and sip is a delight. The perfect spot to relax and unwind. Highly recommend!',
+        name: 'Store Attendant',
+        review: 'Try our ghee; you will see how sweet it is and then not be open to buy any other ghee. Our customers keep coming back for the authentic taste.',
         color: 'yellow',
         rotation: -2
     },
     {
         id: 2,
-        name: 'Deepa Mardi',
-        review: 'Amazing experience! Worth it❤️ Had ordered caramel biscoff waffle, potato wedges, cappuccino… the food was really tasty and budget friendly. Highly recommended Cuku cafe❣️ the place is really cozy and cute, beautiful and aesthetic💗 the staffs were friendly and helpful.',
+        name: 'Loyal Customer',
+        review: 'I have been buying ghee and butter from P Ramalingam for over 20 years. The quality has never changed. It\'s the best Coimbatore ghee in Mumbai!',
         color: 'pink',
         rotation: 1
     },
     {
         id: 3,
-        name: 'Sonali Aind',
-        review: 'The vibe was really good: cozy, boho, and chill. The pizza was amazing, and there were lots of fun games to play. It\'s a very photogenic and aesthetic place. The coffee and drinks was also great. The staff treated us very well — friendly, helpful, and kind.',
+        name: 'Home Chef',
+        review: 'The filter coffee powder from P Ramalingam is incredible. Every morning starts with that authentic South Indian aroma. Simply the best in Matunga.',
         color: 'blue',
         rotation: -1
     },
     {
         id: 4,
-        name: 'Pragati Ghosh',
-        review: 'This cafe has really nice ambience and is full of good vibes, a feel good cafe and the food was also amazing, highly recommended for girls day out!',
+        name: 'Restaurant Owner',
+        review: 'We source all our ghee and spices from P Ramalingam. The consistency and quality is unmatched. Our customers notice the difference!',
         color: 'green',
         rotation: 2
     },
     {
         id: 5,
-        name: 'Priyanka Sharma',
-        review: 'Great ambiance! There are lots of games available, I have enjoyed a lot with my friend. You can spend a quality time here.',
+        name: 'Mumbai Resident',
+        review: 'As you walk near Matunga station, follow the aroma of filter coffee — it will lead you to P Ramalingam. A piece of South India in Mumbai.',
         color: 'orange',
         rotation: -3
     },
     {
         id: 6,
-        name: 'Riya Hansdak',
-        review: 'I come here often and vibe is soothing. Ive celebrated birthdays here and spent a lot of alone time. Everyone is so nice here. Most recommended as a student you must visit.',
+        name: 'Family Customer',
+        review: 'My grandmother used to buy from P Ramalingam, my mother continued the tradition, and now I do the same. Three generations trust this store.',
         color: 'yellow',
         rotation: 1
     },
     {
         id: 7,
-        name: 'Abhavya Jha',
-        review: 'It was a great place, the atmosphere was good, the food was good and the service was really appreciable. You can do a lot of fun things there — games, sticky notes to add, and lots of places to take photos!',
+        name: 'Food Enthusiast',
+        review: 'The butter and ghee here is not available anywhere else in Mumbai. People come from all over the city just for their products. Truly special!',
         color: 'pink',
         rotation: -2
     },
     {
         id: 8,
-        name: 'Sandeep Sarkar',
-        review: 'I loved the place, it was just as I imagined a cosy aesthetic cafe. I loved the vibe and the service was also really nice.',
+        name: 'Regular Visitor',
+        review: 'Every time I visit Matunga, P Ramalingam is a must-stop. Their pickles, papads, and mixes are as authentic as it gets. 50+ years of trust!',
         color: 'blue',
         rotation: 3
     }
@@ -103,8 +103,8 @@ function ReviewsPage() {
                     <div className="reviews-hero-overlay"></div>
                 </div>
                 <div className="reviews-hero-content">
-                    <h1 className="reviews-hero-title">What Our Guests Say</h1>
-                    <p className="reviews-hero-subtitle">Real stories from our beloved customers</p>
+                    <h1 className="reviews-hero-title">What Our Customers Say</h1>
+                    <p className="reviews-hero-subtitle">Trusted by families for 50+ years</p>
                 </div>
             </section>
 
@@ -113,7 +113,7 @@ function ReviewsPage() {
                 <div className="container">
                     <div className="reviews-intro text-center reveal" ref={addToRefs}>
                         <p className="reviews-intro-text">
-                            Every visit creates a memory. Here's what our guests have shared about their Cuku experience.
+                            For over five decades, families across Mumbai have trusted P Ramalingam for authentic South Indian products. Here's what they have to say.
                         </p>
                     </div>
 
@@ -141,9 +141,9 @@ function ReviewsPage() {
             {/* CTA Section */}
             <section className="reviews-cta section">
                 <div className="container container-narrow text-center">
-                    <h2 className="reviews-cta-title">Create Your Own Memory</h2>
+                    <h2 className="reviews-cta-title">Experience the P Ramalingam Difference</h2>
                     <p className="reviews-cta-text">
-                        Visit us and experience the warmth, flavors, and vibes that make Cuku special.
+                        Visit our Matunga store and discover why families have trusted us for over 50 years.
                     </p>
                 </div>
             </section>
@@ -152,3 +152,4 @@ function ReviewsPage() {
 }
 
 export default ReviewsPage
+
