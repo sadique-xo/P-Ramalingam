@@ -1,17 +1,5 @@
 [
   {
-    "category": "DAIRY PRODUCTS",
-    "categoryLink": "https://www.appukart.com/categories/DAIRY%20PRODUCTS",
-    "imageUrl": "https://www.appukart.com/public/uploads/1744635308_dd1c84d6d258f8715bac.jpg",
-    "subcategories": [
-      "Cow Ghee",
-      "Butter",
-      "Paneer",
-      "Pure Ghee"
-    ],
-    "featured": true
-  },
-  {
     "category": "RICE",
     "categoryLink": "https://www.appukart.com/categories/RICE",
     "imageUrl": "https://www.appukart.com/public/uploads/1747309321_cbabde8a30cf8777d777.jpg",
