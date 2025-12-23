@@ -3,8 +3,6 @@ import './OurStoryPage.css'
 // Hero image for Our Story page
 const storyHeroImage = 'https://images.jdmagicbox.com/v2/comp/mumbai/n4/022pxx22.xx22.000129059138.a6n4/catalogue/p-ramalingam-mumbai-2pr3j.jpg'
 
-// Placeholder images
-const founderImage = '/images/about.jpg'
 
 function OurStoryPage() {
     return (
@@ -102,9 +100,6 @@ function OurStoryPage() {
             <section className="story-founder section">
                 <div className="container">
                     <div className="founder-grid">
-                        <div className="founder-image">
-                            <img src={founderImage} alt="P Ramalingam Store" />
-                        </div>
                         <div className="founder-content">
                             <span className="founder-label">Our Heritage</span>
                             <h2 className="founder-title">The P Ramalingam Story</h2>
