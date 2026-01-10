@@ -162,7 +162,7 @@ function MenuPage() {
                     </p>
                     <div className="menu-cta-buttons">
                         <a
-                            href="https://www.appukart.com"
+                            href="https://www.appucart.in"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="btn btn-primary"
